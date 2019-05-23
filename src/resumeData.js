@@ -1,11 +1,11 @@
 let resumeData = {
     imagebaseurl: "https://rbhatia46.github.io/",
-    name: "Cian Conway",
-    role: "Graphic Designer and Developer",
-    linkedinId: "Your LinkedIn Id",
+    name: "Lumino Design",
+    role: "Graphic Design, Development, SEO and Branding in Clare",
+    linkedinId: "https://www.linkedin.com/in/cianconway/",
     skypeid: "Your skypeid",
     roleDescription:
-        " I want to help you communicate who your company is through my branding and design strategy. I have five years design and development experience dealing with customers from fortune 500's to small businesses. Get in touch so I can help you.",
+        "We want to help you communicate who your company is through our branding and design strategy. With over five years design and development experience dealing with customers from fortune 500's to small businesses. Get in touch so we can help you increase revenue and customer retention.",
     socialLinks: [
         {
             name: "linkedin",
@@ -26,7 +26,7 @@ let resumeData = {
     aboutme:
         "I am a designer with an engineering background, I have worked for startups for the past several years and made the decision to lead my own team. Graphic design and branding is the tool you use to communicate your companies value, it isn't just about a mark it is about showcasing what your company represents to your customers. Your brand has a direct impact on what your customers are willing to pay you, and we will help you do that. ",
     address: "Clare",
-    website: "https://rbhatia46.github.io",
+    website: "https://www.luminodesign.com",
     education: [
         {
             UniversityName: "The University of Limerick",
@@ -55,13 +55,16 @@ let resumeData = {
     skillsDescription: "Your skills here",
     skills: [
         {
-            skillname: "HTML5"
+            skillname: "Design"
         },
         {
-            skillname: "CSS"
+            skillname: "Website Development"
         },
         {
-            skillname: "Reactjs"
+            skillname: "Branding"
+        },
+        {
+            skillname: "SEO"
         }
     ],
     portfolio: [
@@ -88,12 +91,13 @@ let resumeData = {
     ],
     testimonials: [
         {
-            description: "This is a sample testimonial",
-            name: "Some technical guy"
+            description:
+                "Lumino helped us with our website design and SEO which drastically increased the number of signups through our website and directly produced more conversions.",
+            name: "Banner Grinds"
         },
         {
             description: "This is a sample testimonial",
-            name: "Some technical guy"
+            name: "Za Exec Chauffeur"
         }
     ]
 };
