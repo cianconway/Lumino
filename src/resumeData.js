@@ -1,11 +1,11 @@
 let resumeData = {
     imagebaseurl: "https://rbhatia46.github.io/",
     name: "Lumino Design",
-    role: "Graphic Design, Development, SEO and Branding in Clare",
+    role: "Graphic Design, Development, SEO and Branding specialists in Clare",
     linkedinId: "https://www.linkedin.com/in/cianconway/",
     skypeid: "Your skypeid",
     roleDescription:
-        "We want to help you communicate who your company is through our branding and design strategy. With over five years design and development experience dealing with customers from fortune 500's to small businesses. Get in touch so we can help you increase revenue and customer retention.",
+        "We want to help you communicate who your company is through our branding and design strategy. With over five years design and development experience dealing with customers from fortune 500's to small businesses. Get in touch so we can help you communicate who you are and increase revenue.",
     socialLinks: [
         {
             name: "linkedin",

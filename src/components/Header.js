@@ -68,8 +68,7 @@ export default class Header extends Component {
                                     fontFamily: "sans-serif "
                                 }}
                             >
-                                I am a {resumeData.role}.
-                                {resumeData.roleDescription}
+                                {resumeData.role}. {resumeData.roleDescription}
                             </h3>
                             <hr />
                             <ul className="social">
