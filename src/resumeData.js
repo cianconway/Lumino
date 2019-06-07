@@ -3,7 +3,7 @@ let resumeData = {
     name: "Lumino Design",
     role: "Graphic Design, Development, SEO and Branding specialists in Clare",
     linkedinId: "https://www.linkedin.com/in/cianconway/",
-    skypeid: "Your skypeid",
+    email: "cian_conway@icloud.com",
     roleDescription:
         "We want to help you communicate who your company is through our branding and design strategy. With over five years design and development experience dealing with customers from fortune 500's to small businesses. Get in touch so we can help you communicate who you are and increase revenue.",
     socialLinks: [
@@ -24,8 +24,8 @@ let resumeData = {
         }
     ],
     aboutme:
-        "I am a designer with an engineering background, I have worked for startups for the past several years and made the decision to lead my own team. Graphic design and branding is the tool you use to communicate your companies value, it isn't just about a mark it is about showcasing what your company represents to your customers. Your brand has a direct impact on what your customers are willing to pay you, and we will help you do that. ",
-    address: "Clare",
+        "We are a team of designers and software engineers, with a background working for startups for the past several years and made the decision to form our own team. Graphic design and branding is the tool you use to communicate your companies value, it isn't just about a mark it is about showcasing what your company represents to your customers. Your brand has a direct impact on what your customers are willing to pay you, and we will help you do that. ",
+    address: "Shannon, Co. Clare",
     website: "https://www.luminodesign.com",
     education: [
         {
