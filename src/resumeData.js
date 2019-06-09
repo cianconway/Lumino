@@ -69,24 +69,28 @@ let resumeData = {
     ],
     portfolio: [
         {
-            name: "project1",
-            description: "mobileapp",
-            imgurl: "images/portfolio/phone.jpg"
+            name: "Lumino",
+            description: "branding",
+            imgurl: "images/portfolio/lumino.jpg",
+            key: "1"
         },
         {
-            name: "project2",
-            description: "mobileapp",
-            imgurl: "images/portfolio/project.jpg"
+            name: "Vaprowave",
+            description: "Logo",
+            imgurl: "images/portfolio/vaporwave.png",
+            key: "2"
         },
         {
-            name: "project3",
-            description: "mobileapp",
-            imgurl: "images/portfolio/project2.png"
+            name: "CloudSafe",
+            description: "Logo",
+            imgurl: "images/portfolio/cloudsafe.png",
+            key: "3"
         },
         {
-            name: "project4",
-            description: "mobileapp",
-            imgurl: "images/portfolio/phone.jpg"
+            name: "HiveMind",
+            description: "Logo",
+            imgurl: "images/portfolio/hivemind.jpg",
+            key: "4"
         }
     ],
     testimonials: [
