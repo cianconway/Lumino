@@ -77,13 +77,13 @@ let resumeData = {
         {
             name: "Vaprowave",
             description: "Logo",
-            imgurl: "images/portfolio/vaporwave.png",
+            imgurl: "images/portfolio/vaporwave.jpg",
             key: "2"
         },
         {
             name: "CloudSafe",
             description: "Logo",
-            imgurl: "images/portfolio/cloudsafe.png",
+            imgurl: "images/portfolio/cloudsafe.jpg",
             key: "3"
         },
         {

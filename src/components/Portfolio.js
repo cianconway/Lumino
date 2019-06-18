@@ -20,6 +20,7 @@ export default class Porfolio extends Component {
                                                     <img
                                                         src={`${item.imgurl}`}
                                                         className="item-img"
+                                                        alt="previousWork"
                                                     />
                                                     <div className="overlay">
                                                         <div className="portfolio-item-meta">
