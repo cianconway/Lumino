@@ -1,11 +1,12 @@
 let resumeData = {
     imagebaseurl: "https://rbhatia46.github.io/",
-    name: "Lumino Design",
-    role: "Graphic Design, Development, SEO and Branding specialists in Clare",
+    name: "Grade A Maths",
+    role: "Leaving and Junior Cert Mathematics learning platform",
     linkedinId: "https://www.linkedin.com/in/cianconway/",
     email: "cian_conway@icloud.com",
     roleDescription:
-        "We want to help you communicate who your company is through our branding and design strategy. With over five years design and development experience dealing with customers from fortune 500's to small businesses. Get in touch so we can help you communicate who you are and increase revenue.",
+        "We want to use our background in mathematics and education to increase the standard of maths education and understanding in Ireland. Building upon the Singapore method for mathematics education our aim is to get students to think like mathematicians and enjoy and understand what they are learning.",
+
     socialLinks: [
         {
             name: "linkedin",
@@ -24,9 +25,9 @@ let resumeData = {
         }
     ],
     aboutme:
-        "We are a team of designers and software engineers, with a background working for startups for the past several years and made the decision to form our own team. Graphic design and branding is the tool you use to communicate your companies value, it isn't just about a mark it is about showcasing what your company represents to your customers. Your brand has a direct impact on what your customers are willing to pay you, and we will help you do that. ",
-    address: "Shannon, Co. Clare",
-    website: "https://www.luminodesign.com",
+        "Grade A Maths is a passion project for us, we are a team of educators and mathematicians who have tailored our content to the leaving and junior cert curriculum to help students understand and apply their learnings to ultimately perform well in the state exams.",
+    address: "Co. Clare",
+    website: "https://www.gradeamaths.com",
     education: [
         {
             UniversityName: "The University of Limerick",
