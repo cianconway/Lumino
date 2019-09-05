@@ -1,4 +1,4 @@
-let resumeData = {
+let projectData = {
     imagebaseurl: "https://rbhatia46.github.io/",
     name: "Grade A Maths",
     role: "Leaving and Junior Cert Mathematics learning platform",
@@ -107,4 +107,4 @@ let resumeData = {
     ]
 };
 
-export default resumeData;
+export default projectData;

@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 export default class ContactUs extends Component {
     render() {
-        let resumeData = this.props.resumeData;
+        let projectData = this.props.projectData;
         return (
             <section id="contact">
                 <div className="row section-head">
@@ -15,7 +15,7 @@ export default class ContactUs extends Component {
                 <div className="row">
                     <aside className="eigth columns footer-widgets">
                         <div className="widget">
-                            <h4>Email: {resumeData.email}</h4>
+                            <h4>Email: {projectData.email}</h4>
                         </div>
                     </aside>
                 </div>

@@ -5,20 +5,20 @@ import Portfolio from "./components/Portfolio";
 import Testimonials from "./components/Testimonials";
 import ContactUs from "./components/ContactUs";
 import Footer from "./components/Footer";
-import resumeData from "./projectData";
+import projectData from "./projectData";
 class App extends Component {
     render() {
         return (
             <div className="App">
-                <Header resumeData={resumeData} />
-                <About resumeData={resumeData} />
+                <Header projectData={projectData} />
+                <About projectData={projectData} />
                 <Portfolio
-                    key={resumeData.portfolio.key}
-                    resumeData={resumeData}
+                    key={projectData.portfolio.key}
+                    projectData={projectData}
                 />
-                <Testimonials resumeData={resumeData} />
-                <ContactUs resumeData={resumeData} />
-                <Footer resumeData={resumeData} />
+                <Testimonials projectData={projectData} />
+                <ContactUs projectData={projectData} />
+                <Footer projectData={projectData} />
             </div>
         );
     }
