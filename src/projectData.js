@@ -25,7 +25,7 @@ let resumeData = {
         }
     ],
     aboutme:
-        "Grade A Maths is a passion project for us, we are a team of educators and mathematicians who have tailored our content to the leaving and junior cert curriculum to help students understand and apply their learnings to ultimately perform well in the state exams.",
+        "Grade A <M></M>aths is a passion project for us, we are a team of educators and mathematicians who have tailored our content to the leaving and junior cert curriculum to help students understand and apply their learnings to ultimately perform well in the state exams.",
     address: "Co. Clare",
     website: "https://www.gradeamaths.com",
     education: [
